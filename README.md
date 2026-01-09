@@ -1,49 +1,66 @@
-## Hi there 👋 I'm Sameer Chakravedi  
+<h1 align="center">Hi there 👋 I'm Sameer Chakravedi</h1>
 
-🎓 **B.Tech Student (Artificial Intelligence)**  
-💻 **AI | Machine Learning | Computer Vision | Django Developer**  
-📍 Indore, Madhya Pradesh, India  
+<h3 align="center">
+🎓 B.Tech (Artificial Intelligence) <br>
+💻 AI • Machine Learning • Computer Vision • Django <br>
+📍 Indore, Madhya Pradesh, India
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sameerchakravedi/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.instagram.com/sameer_chakare.75/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+</a>
+<a href="mailto:sameerchakravedi75@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
 
-### 🚀 About Me  
-I am an aspiring Artificial Intelligence engineer with strong hands-on experience in **Machine Learning, Computer Vision, and Full-Stack Development**.  
-I enjoy building **real-world AI-powered applications**, experimenting with **deep learning models**, and developing **practical projects** that solve real problems.
+## 🚀 About Me  
+I am an **aspiring Artificial Intelligence engineer** with strong hands-on experience in  
+**Machine Learning, Computer Vision, and Full-Stack Development**.
 
-I believe in **learning by building**, and most of my work reflects that mindset.
+✨ I love building **real-world AI-powered applications**, experimenting with  
+**deep learning models**, and transforming ideas into **working systems**.
+
+💡 My philosophy: **Learn by building. Build to learn.**
 
 ---
 
-### 🛠️ Skills & Technologies  
+## 🛠️ Skills & Technologies  
 
-#### 👨‍💻 Programming Languages  
-- Python  
-- C / C++  
+### 👨‍💻 Programming Languages  
+- 🐍 Python  
+- ⚙️ C / C++  
 
-#### 🤖 Artificial Intelligence & Machine Learning  
+### 🤖 Artificial Intelligence & Machine Learning  
 - Machine Learning Algorithms  
-- Deep Learning (Neural Networks, CNNs)    
+- Deep Learning (Neural Networks, CNNs)  
 - Natural Language Processing (Basics)  
 
-#### 👁️ Computer Vision  
+### 👁️ Computer Vision  
 - OpenCV  
 - Face Detection & Recognition  
 - Image Processing  
 - Feature Extraction  
 
-#### 📊 Data Science  
+### 📊 Data Science  
 - NumPy  
 - Pandas  
 - Matplotlib  
 - Seaborn  
 - Exploratory Data Analysis (EDA)  
 
-#### 🌐 Web Development  
+### 🌐 Web Development  
 - Django  
-- HTML, CSS
+- HTML & CSS  
 - Django Authentication & Dashboards  
 
-#### 🧠 Frameworks & Tools  
+### 🧠 Frameworks & Tools  
 - TensorFlow  
 - Keras  
 - PyTorch  
@@ -52,47 +69,46 @@ I believe in **learning by building**, and most of my work reflects that mindset
 
 ---
 
-### 📌 Projects  
+## 📌 Featured Projects  
 
-🔹 **Face Recognition Attendance System**  
-- Automated attendance using face detection  
-- Integrated with Django backend  
-- Real-time recognition using OpenCV  
+### 🔹 Face Recognition Attendance System  
+✔ Automated attendance using face detection  
+✔ Integrated with Django backend  
+✔ Real-time recognition using OpenCV  
 
-🔹 **Movie Recommendation System**  
-- Genre-based & user-based recommendations  
-- Probability prediction for movie watching  
-- ML-driven decision making  
-
-
----
-
-### 🌱 Currently Learning  
-- Advanced Deep Learning  
-- Production-level Django Projects  
+### 🔹 Movie Recommendation System  
+✔ Genre-based & user-based recommendations  
+✔ Watch-probability prediction  
+✔ Machine learning–driven decision system  
 
 ---
 
-### 👯 Looking to Collaborate On  
-- AI & Machine Learning Projects  
-- Computer Vision Applications  
-- Open-source Django Projects  
-- Game AI & Reinforcement Learning  
+## 🌱 Currently Learning  
+- 🚀 Advanced Deep Learning  
+- 🏗️ Production-level Django Projects  
 
 ---
 
-### 📫 How to Reach Me  
-
-- 📧 Email: **sameerchakravedi75@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/sameerchakravedi](https://www.linkedin.com/in/sameerchakravedi/)  
-- 📸 Instagram: [@sameer_chakare.75](https://www.instagram.com/sameer_chakare.75/)  
-- 📘 Facebook: [sameer.chakravedi.3](https://www.facebook.com/sameer.chakravedi.3)  
-
----
-
-### ⚡ Fun Fact  
-I love turning **AI concepts into games and real-world systems** 🎮🤖  
+## 👯 Looking to Collaborate On  
+- 🤖 AI & Machine Learning Projects  
+- 👁️ Computer Vision Applications  
+- 🌐 Open-source Django Projects  
+- 🎮 Game AI & Reinforcement Learning  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+## 📫 How to Reach Me  
+
+📧 **Email:** sameerchakravedi75@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/sameerchakravedi/  
+📸 **Instagram:** https://www.instagram.com/sameer_chakare.75/  
+📘 **Facebook:** https://www.facebook.com/sameer.chakravedi.3  
+
+---
+
+## ⚡ Fun Fact  
+🎮 I love turning **AI concepts into games and real-world intelligent systems** 🤖  
+
+---
+
+⭐ **If you like my work, don’t forget to star ⭐ my repositories!**
