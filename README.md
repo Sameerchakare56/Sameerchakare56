@@ -19,12 +19,10 @@ I believe in **learning by building**, and most of my work reflects that mindset
 #### 👨‍💻 Programming Languages  
 - Python  
 - C / C++  
-- Java (Basic)  
 
 #### 🤖 Artificial Intelligence & Machine Learning  
 - Machine Learning Algorithms  
-- Deep Learning (Neural Networks, CNNs)  
-- Reinforcement Learning (DQN, Game AI)  
+- Deep Learning (Neural Networks, CNNs)    
 - Natural Language Processing (Basics)  
 
 #### 👁️ Computer Vision  
@@ -42,7 +40,7 @@ I believe in **learning by building**, and most of my work reflects that mindset
 
 #### 🌐 Web Development  
 - Django  
-- HTML, CSS, JavaScript  
+- HTML, CSS
 - Django Authentication & Dashboards  
 
 #### 🧠 Frameworks & Tools  
@@ -66,26 +64,11 @@ I believe in **learning by building**, and most of my work reflects that mindset
 - Probability prediction for movie watching  
 - ML-driven decision making  
 
-🔹 **Reinforcement Learning Snake Game**  
-- DQN-based AI agent  
-- Model saving & loading  
-- TensorBoard logging  
-
-🔹 **Predator–Prey Simulation**  
-- Vision-based movement (no grid system)  
-- Real-time simulation using Pygame & Mesa  
-
-🔹 **Chess Game with AI Training**  
-- Reinforcement learning-based training  
-- Visual move highlighting  
-- Player profiles & saved data  
 
 ---
 
 ### 🌱 Currently Learning  
 - Advanced Deep Learning  
-- Agentic AI (LangChain, LangGraph, RAG Pipelines)  
-- AI Game Development  
 - Production-level Django Projects  
 
 ---
