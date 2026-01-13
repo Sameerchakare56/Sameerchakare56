@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sameer Chakravedi</h1>
+<h1 align="center">👋 Hello, I'm Sameer Chakravedi</h1>
 
 <p align="center">
 🎓 B.Tech (Artificial Intelligence) • 💻 AI & ML Developer • 👁️ Computer Vision <br>
