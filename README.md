@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Quick Summary
-I am an aspiring **AI Engineer** focused on bridging the gap between complex Deep Learning models and real-world applications. From building **Face Recognition systems** to architecting **Django-based AI dashboards**, I believe in the philosophy:  
+I am an aspiring **AI Engineer** focused on bridging the gap between complex Deep Learning models and real-world applications. From building  architecting **Django-based AI dashboards**, I believe in the philosophy:  
 > *“Learn by building. Build to learn.”*
 
 ---
