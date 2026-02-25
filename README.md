@@ -39,20 +39,6 @@ I am an aspiring **AI Engineer** focused on bridging the gap between complex Dee
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Sameer's Streak" width="48%" />
 </p>
 
----
-
-### 📌 Featured Projects
-
-#### 👁️ [Face Recognition Attendance System](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
-*A high-accuracy real-time attendance system utilizing MTCNN for detection and FaceNet for embeddings.*
-- **Backend:** Django
-- **Frontend:** Responsive Dashboard
-- **Tech:** OpenCV, SQLite, NumPy
-
-#### 🎬 [Movie Recommendation Engine](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
-*Collaborative and Content-based filtering system with a watch-probability predictor.*
-- **Model:** Random Forest / XGBoost
-- **Data:** TMDB 5000 Dataset
 
 ---
 
