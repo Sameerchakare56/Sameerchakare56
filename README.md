@@ -1,6 +1,10 @@
 # Hi, I'm Sameer Chakravedi 👋
 ### AI Engineer | Django Developer | Machine Learning | Computer Vision
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Engineer&fontSize=90" />
+</p>
+
 <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerChakare56&theme=radical&column=7" alt="SameerChakare56" /></a>
 </p>
@@ -8,12 +12,12 @@
 ---
 
 ### 🔭 About Me
-I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 5, 36].
+I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions. I specialize in computer vision workflows and scalable backend integration.
 
-- [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
+- 💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection.
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
 - [cite_start]🌱 **Core Focus:** End-to-end AI workflows—from dataset creation and annotation to model inference and API deployment[cite: 13, 15].
-- [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16, 35].
+- [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16].
 - [cite_start]📍 **Location:** Indore, Madhya Pradesh, India[cite: 2].
 
 ---
@@ -44,8 +48,8 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 
 ### 🚀 Featured Projects & Experience
 
-* [cite_start]**AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**[cite: 11, 12].
-* [cite_start]**Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user behavior[cite: 27, 29].
+* [cite_start]**AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**[cite: 11, 12, 16].
+* [cite_start]**Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user preferences[cite: 27, 28, 29].
 * **Student Attendance System:** Real-time face detection integrated with a Django-based management dashboard.
 
 ---
