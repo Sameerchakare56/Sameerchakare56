@@ -2,19 +2,19 @@
 ### AI Engineer | Django Developer | Machine Learning | Computer Vision
 
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical" alt="your-github-username" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerChakare56&theme=radical" alt="SameerChakravedi" /></a>
 </p>
 
 ---
 
 ### 🔭 About Me
-I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions. I specialize in computer vision workflows and scalable backend integration.
+[cite_start]I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4].
 
 - [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
 - [cite_start]🌱 **Core Focus:** End-to-end AI workflows—from dataset creation and annotation to model inference and API deployment[cite: 13, 15].
 - [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16].
-- [cite_start]📍 **Location:** Indore, Madhya Pradesh, India.
+- [cite_start]📍 **Location:** Indore, Madhya Pradesh, India[cite: 2].
 
 ---
 
@@ -32,8 +32,8 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&rank_icon=github" alt="Sameer's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SameerChakare56&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Sameer's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerChakake56&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -47,5 +47,9 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sameerchakravedi/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sameerchakravedi75@gmail.com)
+<a href="https://www.linkedin.com/in/sameerchakravedi/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sameerchakravedi75@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
