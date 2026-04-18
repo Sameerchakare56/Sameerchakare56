@@ -1,56 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello,+I'm+Sameer+Chakravedi;AI+%26+ML+Developer;Computer+Vision+Enthusiast" alt="Typing SVG" />
-</h1>
+# Hi, I'm Sameer Chakravedi 👋
+### AI Engineer | Django Developer | Machine Learning | Data Analysis
 
-<p align="center">
-  <b>B.Tech in Artificial Intelligence | Computer Vision | Full-Stack AI Solutions</b><br>
-  📍 Indore, Madhya Pradesh, India
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sameerchakravedi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sameerchakravedi75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/sameer_chakare.75/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical" alt="your-github-username" /></a>
 </p>
 
 ---
 
-### 🚀 Quick Summary
-I am an aspiring **AI Engineer** focused on bridging the gap between complex Deep Learning models and real-world applications. From building  architecting **Django-based AI dashboards**, I believe in the philosophy:  
-> *“Learn by building. Build to learn.”*
+### 🔭 About Me
+I am a **B.Tech (Artificial Intelligence)** student and an aspiring AI Engineer focused on building production-ready systems that bridge the gap between complex ML models and scalable web applications.
+
+- 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
+- 🌱 **Currently Learning:** Advanced Deep Learning, Data Science, and Production-grade Django deployments.
+- 🏗️ **Core Focus:** Machine Learning, Data Structures & Algorithms, and Computer Vision.
+- 📍 **Location:** India.
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) `MediaPipe` `Face_Recognition` |
-| **Web & Backend** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  |
+| **AI / ML & Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Backend & Web** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sameer's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Sameer's Streak" width="48%" />
-</p>
-
-
----
-
-### 🌱 Currently Exploring
-- **Generative AI:** Fine-tuning LLMs and Diffusion Models.
-- **MLOps:** Deploying production-ready models using Docker and AWS.
-
-### 🤝 Let's Collaborate!
-I'm open to contributing to **Open Source AI**, **Robotics**, and **Reinforcement Learning** projects. If you have a cool idea, let’s build it!
-
----
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&rank_icon=github" alt="Sameer's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+* **Face Recognition Attendance System** – Real-time detection with a Django backend.
+* **Movie Recommendation System** – Predictive ML models based on user genres.
+* **Satellite Imagery Object Detection** – Custom CNN architectures for image analysis.
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](your-linkedin-url)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:your-email@gmail.com)
