@@ -2,13 +2,13 @@
 ### AI Engineer | Django Developer | Machine Learning | Computer Vision
 
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerChakare56&theme=radical" alt="SameerChakare56" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerChakare56&theme=radical&column=7" alt="SameerChakare56" /></a>
 </p>
 
 ---
 
 ### 🔭 About Me
-[cite_start]I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 3, 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4, 36].
+I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 5, 36].
 
 - [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
@@ -36,6 +36,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerChakare56&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerChakare56&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects & Experience
@@ -47,9 +51,12 @@
 ---
 
 ### 📫 Connect with me
+<p align="left">
 <a href="https://www.linkedin.com/in/sameerchakravedi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sameerchakravedi75@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=SameerChakare56&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
