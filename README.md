@@ -12,13 +12,13 @@
 ---
 
 ### 🔭 About Me
-[cite_start]I am an aspiring **Artificial Intelligence professional** [cite: 4] [cite_start]and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 18, 19, 5]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4, 36].
+I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions. I specialize in computer vision workflows and scalable backend integration .
 
-- [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
+- 💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection .
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
-- [cite_start]🌱 **Core Focus:** End-to-end AI workflows—from dataset creation and annotation to model inference and API deployment[cite: 13, 15].
-- [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16, 35].
-- [cite_start]📍 **Location:** Indore, Madhya Pradesh, India[cite: 2].
+- 🌱 **Core Focus:** End-to-end AI workflows—from dataset creation and annotation to model inference and API deployment.
+- 🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends.
+- 📍 **Location:** Indore, Madhya Pradesh, India.
 
 ---
 
@@ -28,8 +28,8 @@
 | :--- | :--- |
 | **AI / ML & Computer Vision** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat" /> |
 | **Data Science** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-444876?style=flat" /> |
-| **Backend & Web** | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> |
-| **Tools & IDEs** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" /> |
+| **Backend & Web** | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />  |
+| **Tools & IDEs** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> |
 
 ---
 
@@ -48,8 +48,8 @@
 
 ### 🚀 Featured Projects & Experience
 
-* [cite_start]**AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**[cite: 11, 12].
-* [cite_start]**Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user behavior[cite: 27, 29].
+* **AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**.
+* **Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user behavior.
 * **Student Attendance System:** Real-time face detection integrated with a Django-based management dashboard.
 
 ---
