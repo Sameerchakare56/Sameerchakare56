@@ -12,7 +12,7 @@
 ---
 
 ### 🔭 About Me
-[cite_start]I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4, 36].
+[cite_start]I am an aspiring **Artificial Intelligence professional** [cite: 4] [cite_start]and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 18, 19, 5]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4, 36].
 
 - [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
@@ -23,11 +23,13 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,django,fastapi,mysql,postgres,linux,git,github,vscode,pycharm&theme=dark" />
-  </a>
-</p>
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / ML & Computer Vision** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat" /> |
+| **Data Science** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-444876?style=flat" /> |
+| **Backend & Web** | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> |
+| **Tools & IDEs** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" /> |
 
 ---
 
@@ -52,13 +54,28 @@
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/sameerchakravedi/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sameerchakravedi75@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=SameerChakare56&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<h3 align="center">🤝 Let's Connect & Collaborate</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameerchakravedi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sameerchakravedi75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameerChakare56&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="#-hi-im-sameer-chakravedi-">
+    <img src="https://img.shields.io/badge/-Back%20to%20Top-lightgrey?style=flat-square" alt="Back to Top" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Designed with ❤️ by Sameer Chakravedi</i>
 </p>
