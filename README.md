@@ -1,35 +1,33 @@
 # Hi, I'm Sameer Chakravedi 👋
-### AI Engineer | Django Developer | Machine Learning | Computer Vision
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D9E2&width=435&lines=AI+Engineer;Django+Developer;Machine+Learning+Specialist;Computer+Vision+Expert" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Engineer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sameer%20Chakravedi&fontSize=70&animation=fadeIn" />
 </p>
 
-<p align="left">
+<p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameerChakare56&theme=radical&column=7" alt="SameerChakare56" /></a>
 </p>
 
 ---
 
 ### 🔭 About Me
-I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions. I specialize in computer vision workflows and scalable backend integration.
+[cite_start]I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** student with hands-on experience in building and deploying real-world AI solutions[cite: 4, 18]. [cite_start]I specialize in computer vision workflows and scalable backend integration[cite: 4, 36].
 
-- 💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection.
+- [cite_start]💼 **Recent Experience:** Python Support Intern at **TDBAI**, focusing on YOLOv8 and custom object detection[cite: 9, 10, 11].
 - 🔭 **Currently working on:** Student Attendance Dashboard with advanced analytics.
 - [cite_start]🌱 **Core Focus:** End-to-end AI workflows—from dataset creation and annotation to model inference and API deployment[cite: 13, 15].
-- [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16].
+- [cite_start]🏗️ **Key Expertise:** Real-time object detection, predictive modeling, and FastAPI-based backends[cite: 14, 16, 35].
 - [cite_start]📍 **Location:** Indore, Madhya Pradesh, India[cite: 2].
 
 ---
 
-### 🛠️ Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **AI / ML & Computer Vision** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge) ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge) |
-| **Data Analysis** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| **Web & APIs** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **Databases & Tools** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,django,fastapi,mysql,postgres,linux,git,github,vscode,pycharm&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -48,8 +46,8 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 
 ### 🚀 Featured Projects & Experience
 
-* [cite_start]**AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**[cite: 11, 12, 16].
-* [cite_start]**Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user preferences[cite: 27, 28, 29].
+* [cite_start]**AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**[cite: 11, 12].
+* [cite_start]**Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user behavior[cite: 27, 29].
 * **Student Attendance System:** Real-time face detection integrated with a Django-based management dashboard.
 
 ---
