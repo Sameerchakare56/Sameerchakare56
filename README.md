@@ -48,7 +48,7 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 
 ### 🚀 Featured Projects & Experience
 
-* **AI Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**.
+* **Python Support Intern (TDBAI):** Developed custom object detection models using **YOLOv8** and managed datasets via **Roboflow**.
 * **Movie Recommendation System:** Built a content-based filtering system using cosine similarity to suggest films based on user behavior.
 * **Student Attendance System:** Real-time face detection integrated with a Django-based management dashboard.
 
