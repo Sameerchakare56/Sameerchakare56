@@ -1,5 +1,5 @@
 # Hi, I'm Sameer Chakravedi 👋
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D9E2&width=435&lines=AI+Engineer;Django+Developer;Machine+Learning+Specialist;Computer+Vision" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23D9E2&width=435&lines=Artificial+Intelligence;Django+Developer;Machine+Learning;Computer+Vision" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sameer%20Chakravedi&fontSize=70&animation=fadeIn" />
