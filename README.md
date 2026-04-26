@@ -26,7 +26,7 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI / ML & Computer Vision** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat" /> |
+| **AI / ML & Computer Vision** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat" /> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat" /> |
 | **Data Science** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-444876?style=flat" /> |
 | **Backend & Web** | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />  |
 | **Tools & IDEs** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> |
@@ -37,7 +37,7 @@ I am an aspiring **Artificial Intelligence professional** and **B.Tech (AI)** st
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SameerChakare56&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Sameer's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerChakare56&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerChakare56&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p align="center">
